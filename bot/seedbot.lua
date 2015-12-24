@@ -224,24 +224,20 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
+    about_text = [[Tard_Hacker v4.9
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/LORDMEHDI/LORD
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@Mahdi17177 [Founder & Developer]
+@ferisystem [Construction Manager Groups]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+Peryman khannas
 
 Our channels
-@teleseedch [English]
+@@tard_ch [English]
 ]],
     help_text = [[
 Commands list :
