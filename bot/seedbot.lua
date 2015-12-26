@@ -220,24 +220,24 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {112524566,0,tonumber(our_id)},--Sudo users
+    sudo_users = {112524566,139946685,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Tard_Hacker v4.9
+    about_text = [[Tard_Bot v4.9
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/LORDMEHDI/LORD
+https://github.com/LORDMEHDI/TeleTard
 
 Admins
-@Mahdi17177 [Founder & Developer]
-@ferisystem [Construction Manager Groups]
+@ferisystem [Founder]
+@mahdi17177 [Manager & Developer]
 
 Special thanks to
-Peryman khannas
+Peyman Khannas
 
 Our channels
-@@tard_ch [English]
+@TeleTardCh [Persian]
 ]],
     help_text = [[
 Commands list :
